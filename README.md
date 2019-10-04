@@ -6,3 +6,10 @@
 
 ##Restaurant List##
 -User can Add/Edit/Delete restaurants here, and can click a button to take the stressful task of picking a restaurant out of his hands.
+
+
+https://stevenwbull.github.io/html-capstone-1-wireframes/landing-page.html
+
+https://stevenwbull.github.io/html-capstone-1-wireframes/sign-up-in-page.html
+
+https://stevenwbull.github.io/html-capstone-1-wireframes/restaurant-list.html
