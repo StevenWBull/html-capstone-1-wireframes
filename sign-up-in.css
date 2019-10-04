@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 5%;
+  background-color: gray;
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  align-items: center;
+}
+
+main {
+  width: 80%;
+  height: 75%;
+  text-align: center;
+  margin: 140px auto auto auto;
+  padding: auto;
+}
+
+form {
+  background-color: gray;
+  padding: 10px;
+}
+
+span {
+  display: block;
+  margin: 15px auto 15px auto;
+}
+
+button {
+  display: block;
+  margin: auto;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: gray;
+  text-align: center;
+}
